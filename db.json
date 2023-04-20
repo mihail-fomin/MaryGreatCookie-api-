@@ -118,6 +118,24 @@
 	},
 	{
 		"id": "0301",
+		"title": "Макарон «Шоколад-хрустящий слой»",
+		"price": 125,
+		"weight": 90,
+		"description": "",
+		"category": "macarons",
+		"image": "https://ik.imagekit.io/i7lh9dcka/macarons/photo_2023-04-19_18-45-32.jpg?updatedAt=1681915802543"
+	},
+	{
+		"id": "0302",
+		"title": "Макарон «Арахис-халва»",
+		"price": 108,
+		"weight": 90,
+		"description": "",
+		"category": "macarons",
+		"image": "https://ik.imagekit.io/i7lh9dcka/macarons/photo_2023-04-19_18-45-52.jpg?updatedAt=1681915813046"
+	},
+	{
+		"id": "0401",
 		"title": "Набор трайфлов «Сникерс» 4 шт",
 		"price": 600,
 		"weight": 400,
@@ -126,7 +144,7 @@
 		"image": "https://ik.imagekit.io/i7lh9dcka/trifle/trifle_1?updatedAt=1671465928729"
 	},
 	{
-		"id": "0302",
+		"id": "0402",
 		"title": "Набор трайфлов «Тирамису» 4 шт",
 		"price": 600,
 		"weight": 400,
@@ -135,7 +153,7 @@
 		"image": "https://ik.imagekit.io/i7lh9dcka/trifle/1645559686_8268152.jpg?updatedAt=1681829547820"
 	},
 	{
-		"id": "0303",
+		"id": "0403",
 		"title": "Набор трайфлов «Рафаэлло» 4 шт",
 		"price": 600,
 		"weight": 400,
@@ -144,7 +162,7 @@
 		"image": "https://ik.imagekit.io/i7lh9dcka/trifle/trifle_2?updatedAt=1671466016507"
 	},
 	{
-		"id": "0401",
+		"id": "0501",
 		"title": "Торт «шоколад-хрустящий слой»",
 		"price": 2000,
 		"weight": 1000,
@@ -153,7 +171,7 @@
 		"image": "https://ik.imagekit.io/i7lh9dcka/cakes/cake_2.jpg?updatedAt=1681829043105"
 	},
 	{
-		"id": "0402",
+		"id": "0502",
 		"title": "Торт «шоколад-чёрная смородина»",
 		"price": 2200,
 		"weight": 1000,
@@ -162,7 +180,7 @@
 		"image": "https://ik.imagekit.io/i7lh9dcka/cakes/cake_3.jpg?updatedAt=1681829043072"
 	},
 	{
-		"id": "0403",
+		"id": "0503",
 		"title": "Торт «шоколад-ягоды»",
 		"price": 2000,
 		"weight": 1000,
@@ -171,7 +189,7 @@
 		"image": "https://ik.imagekit.io/i7lh9dcka/cakes/cake_4.jpg?updatedAt=1681829043087"
 	},
 	{
-		"id": "0404",
+		"id": "0504",
 		"title": "Торт «апельсин/манго, маракуйя»",
 		"price": 2200,
 		"weight": 1000,
